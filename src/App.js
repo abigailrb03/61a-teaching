@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <div className='about-me'>
         <div className='name'>
-          <text> Abby Brooks-Ramirez</text>
+          <text> uGSI: Abby Brooks-Ramirez</text>
           <a className='email' href='https://mail.google.com/mail/u/0/?fs=1&to=a.brooks@berkeley.edu&tf=cm' target='_blank'>a.brooks@berkeley.edu</a>
         </div>
         <div className='resource-links'>
